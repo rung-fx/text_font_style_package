@@ -1,6 +1,6 @@
 name: text_font_style
-description: A new Flutter project.
-version: 0.0.1
+description: A new Flutter Text Widget with modifiable TextStyle.
+version: 0.0.2
 homepage: https://github.com/rung-fx/text_font_style_package
 
 environment:
