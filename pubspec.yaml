@@ -1,7 +1,7 @@
 name: text_font_style
 description: A new Flutter project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/rung-fx/text_font_style_package
 
 environment:
   sdk: '>=2.18.5 <3.0.0'

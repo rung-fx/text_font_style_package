@@ -1,3 +1,3 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+Added the Text Widget with modifiable Data, FontStyle, FontSize, Color, TextAlign, FontWeight and TextOverflow
