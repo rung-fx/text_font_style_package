@@ -1,7 +1,7 @@
-## TextFontStyle
+# TextFontStyle
 This package is simple text widget with modifiable text style.
 
-# Installation
+## Installation
 1. Add the latest version of package to your pubspec.yaml and run ```flutter pub get```
 ```
 dependencies:
@@ -12,7 +12,7 @@ dependencies:
 import 'package: text_font_style/text_font_style.dart';
 ```
 
-# TextStyle
+## TextStyle
 These are TextStyle that you can modify:
 * FontFamily
 * FontSize
